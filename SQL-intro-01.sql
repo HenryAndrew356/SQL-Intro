@@ -1,0 +1,3 @@
+/*	Syntax for commentary	*/
+
+/*	Hello	*/
